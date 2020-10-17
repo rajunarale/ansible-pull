@@ -1,5 +1,5 @@
 ---
- - hosts: localhost
+ - hosts: 18.191.177.85
    
    tasks:
     - name: start apache2 server
