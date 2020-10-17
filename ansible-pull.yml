@@ -1,5 +1,5 @@
 ---
- - hosts: webservers
+ - hosts: all
    
    tasks:
     - name: start apache2 server
